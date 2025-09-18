@@ -1,0 +1,6 @@
+venv/
+**/__pycache__/
+.dockerignore
+k8s-manifests/
+.git 
+.gitignore
