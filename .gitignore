@@ -6,3 +6,5 @@ venv/
 .env
 
 *secrets*.yml
+.dockerignore
+.gitignore
